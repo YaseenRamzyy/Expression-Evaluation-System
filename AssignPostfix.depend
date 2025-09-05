@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1746642416 source:c:\users\lenovo\onedrive - alexandria university\desktop\assignpostfix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
