@@ -1,6 +1,6 @@
 # Expression-Evaluation-System
 A C program that implements infix to postfix conversion and expression evaluation using stack data structures. The system handles complex mathematical expressions with support for various operators, parentheses, and number formats.
-Features
+# Features
 Infix to Postfix Conversion: Converts standard mathematical expressions to postfix notation
 
 Expression Evaluation: Computes the result of postfix expressions using stack operations
@@ -19,7 +19,7 @@ Interactive Interface: User-friendly menu system with color-coded output
 
 Error Handling: Comprehensive validation for invalid expressions and characters
 
-Technical Implementation
+# Technical Implementation
 Stack data structure using linked lists
 
 Operator precedence hierarchy (^ > */% > +-)
@@ -30,7 +30,7 @@ Robust input parsing for both spaced and non-spaced expressions
 
 Support for all basic arithmetic operations: +, -, *, /, %, ^
 
-Example Expressions
+# Example Expressions
 Basic: 2+3*4 → 2 3 4 * + = 14.0
 
 With parentheses: (5+3)*2 → 5 3 + 2 * = 16.0
